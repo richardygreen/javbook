@@ -176,7 +176,6 @@
   * [CJOD](youma/c/cjod.md)
   * [CAWD](youma/c/cawd.md)
 * [D](youma/d/README.md)
-  * [DVDMS](youma/d/dvdms-1.md)
   * [DVDMS](youma/d/dvdms.md)
   * [DRC](youma/d/drc.md)
   * [DNW](youma/d/dnw.md)
